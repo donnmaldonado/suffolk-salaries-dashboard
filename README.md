@@ -19,3 +19,12 @@ Highlights
 
 Design
 ---
+![image](https://github.com/user-attachments/assets/14564dc5-d894-437e-ae58-2af2099d98eb)
+
+Tableau Public
+---
+https://public.tableau.com/app/profile/donnoban.maldonado/viz/CompensationExpendituresBreakdownSuffolkCountyNY/Dashboard1
+
+Data Sources
+---
+https://opendata.suffolkcountyny.gov/datasets/a857361de9c1403187f2d3129390f1d4_0/explore
