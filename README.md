@@ -20,7 +20,7 @@ Highlights
 
 Design
 ---
-![image](https://github.com/user-attachments/assets/14564dc5-d894-437e-ae58-2af2099d98eb)
+![Screenshot 2024-08-14 at 2 09 05 PM](https://github.com/user-attachments/assets/9d3242ad-d42d-40fa-a231-2535ff646c28)
 
 Links
 ---
