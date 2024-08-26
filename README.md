@@ -14,9 +14,9 @@ Data is then exported to a final CSV file to be used in Tableau to build interac
 
 Highlights
 ---
-* More than 25% of total compensations paid out by the Suffolk Police department.
+* More than 25% of total compensations were paid out by the Suffolk Police department.
 * Suffolk spends more on the police and sheriff’s departments than all other departments combined.
-* The highest earner in 2022 was a police inspector who earned around $654,000.
+* The highest earning public employee in 2022 was a police inspector who earned around $654,000.
 
 Design
 ---
